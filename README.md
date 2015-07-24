@@ -1,2 +1,2 @@
-# carjerks
-A place where you can upload vehicular offenses
+# sinatra-skeleton
+My own Sinatra skeleton
